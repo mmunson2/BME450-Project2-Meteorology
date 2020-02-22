@@ -29,7 +29,7 @@ Figure 1: Plot of Wind Speed vs. Time: Oregon Shelf Surface Mooring
 
 Figure 2: Plot of Wind Speed vs. Time: Oregon Offshore Surface Mooring
 
-![alt text](https://github.com/mmunson2/BME450-Project2-Meteorology/blob/master/data/Offshore/2017OffshoreWind.png "Offshore Wind Speed")  
+![alt text](https://github.com/mmunson2/BME450-Project2-Meteorology/blob/master/Data/Offshore/2017OffshoreWind.png "Offshore Wind Speed")  
 
 
 Figure 3: Plot of Rain Rate vs. Time: Oregon Shelf Surface Mooring
@@ -38,7 +38,7 @@ Figure 3: Plot of Rain Rate vs. Time: Oregon Shelf Surface Mooring
 
 Figure 4: Plot of Rain Rate vs. Time: Oregon Offshore Surface Mooring
 
-![alt text](https://github.com/mmunson2/BME450-Project2-Meteorology/blob/master/data/Offshore/2017OffshoreRain.png "Offshore Rain Rate")  
+![alt text](https://github.com/mmunson2/BME450-Project2-Meteorology/blob/master/Data/Offshore/2017OffshoreRain.png "Offshore Rain Rate")  
 
 Figure 5 & 6: Correlation Graphs
 ## Currently Unfinished 
