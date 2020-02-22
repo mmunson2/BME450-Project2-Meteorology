@@ -25,7 +25,7 @@ The data from both locations is combined in the correlation function. This
 
 Figure 1: Plot of Wind Speed vs. Time: Oregon Shelf Surface Mooring
 
-![alt text](https://github.com/mmunson2/BME450-Project2-Meteorology/blob/master/data/Shelf/2017ShelfWindSpeed.png "Shelf Wind Speed") 
+![alt text](https://github.com/mmunson2/BME450-Project2-Meteorology/master/data/Shelf/2017ShelfWindSpeed.png "Shelf Wind Speed") 
 
 Figure 2: Plot of Wind Speed vs. Time: Oregon Offshore Surface Mooring
 
