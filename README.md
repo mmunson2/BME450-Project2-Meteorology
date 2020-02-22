@@ -61,9 +61,7 @@ Finally, average graphs are created with rain rate and wind speed averaged over 
 
 ![alt text](https://github.com/mmunson2/BME450-Project2-Meteorology/blob/master/Data/Offshore/2017OffshoreAverage.png "Offshore Average") 
 
-# Analysis:
-
-Assignment Questions - 
+# Analysis - Assignment Questions:
 
 ### 1.	What is the highest correlation and at what time lag for…
 
@@ -75,7 +73,7 @@ Assignment Questions -
   b.	Rain Rate? 
 
   Max Correlation: 0.218
-  Time Lag: 
+  Time Lag: 47 seconds
 
 
 ### 2.	What patterns do you see in the monthly averages?
