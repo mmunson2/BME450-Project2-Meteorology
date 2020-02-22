@@ -1,6 +1,6 @@
 # BME450-Project2-Meteorology
-## Matthew Munson
-## 2/21/19
+Matthew Munson
+2/21/19
 
 
 # Introduction:
